@@ -25,7 +25,7 @@ SECRET_KEY = 'mi$4a+&1j!3s)izzuce$#o+!f1^t-1)-0!y2zr8a+k+y_+q7q+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1", "biproxy.pythonanywhere.com"]
 
 
 # Application definition
